@@ -9,7 +9,6 @@
 <header>
 <h1>Styling Soul</h1>
 <img src="logo.jpg" id="logo">
-<a href="#about">about</a>
 </header>
 <main>
 <article>
@@ -70,6 +69,7 @@ a good learner and i always have keen interest in learning new technologies.
 </div>
 <div id="footer-foot">
 <small>Images brought to you with courtesy of <a href="https://pixabay.com">Pixabay</a></small>
+<button><a href="#top">Back To Top</a></button>
 </div>
 </footer>
 </body>
