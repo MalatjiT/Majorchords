@@ -6,7 +6,7 @@
    <meta charset="UTF-8">
 </head>
 <body>
-<header>
+<header id="top">
 <h1>Styling Soul</h1>
 <img src="logo.jpg" id="logo">
 </header>
@@ -60,12 +60,15 @@ chords always fit.
 <button id="follow"><a href="https://twitter.com/stylingsoul?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @stylingsoul</a>
 </button>
 <h4>About Me</h4>
-I am a beatmaker, pianist and web developer.
+<p>I am a beatmaker, pianist and web developer.
 I learned how to play piano as a hobby and I never
 wanted to make it a career. But I have started making beats
-and uploading them on beatstars. I am also 
+and uploading them on beatstars.
+</p>
+<p>I am also 
 developing web pages in HTML,CSS and JavaScript. I am 
 a good learner and i always have keen interest in learning new technologies.
+</p>
 </div>
 <div id="footer-foot">
 <small>Images from Pxabay</small>
