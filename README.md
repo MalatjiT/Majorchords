@@ -68,8 +68,7 @@ developing web pages in HTML,CSS and JavaScript. I am
 a good learner and i always have keen interest in learning new technologies.
 </div>
 <div id="footer-foot">
-<small>Images brought to you with courtesy of <a href="https://pixabay.com">Pixabay</a></small>
-<button><a href="#top">Back To Top</a></button>
+<small>Images from Pxabay<a href="#">Back To Top</a></small>
 </div>
 </footer>
 </body>
