@@ -2,8 +2,7 @@
 <html>
 <head>
    <meta name="viewport" content="width=device-width; initial-scale=1.0">
-   <title>3 IMPORTANT MAJOR CHORDS</title>
-
+ 
    <meta charset="UTF-8">
 </head>
 <body>
@@ -58,7 +57,7 @@ chords always fit.
 </main>
 <footer>
 <div id="about">
-<button id="follow"><a href="https://twitter.com/stylingsoul?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @stylingsoul</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<button id="follow"><a href="https://twitter.com/stylingsoul?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @stylingsoul</a>
 </button>
 <h4>About Me</h4>
 I am a beatmaker, pianist and web developer.
