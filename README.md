@@ -13,15 +13,15 @@
 <main>
 <article>
 <h2>3 Most Important Major Chords</h2>
-<p>
 <img src="piano2.jpg" class="photos">
+<p>
 Let your music be the soundtrack of your life.
 Let it be the expression of emotions that
 cannot be expressed by words. Create your style
 to show your uniqueness.
 </p>
-<p>
 <h3>The I-IV-V</h3>
+<p>
 These are the most important chords on the 
 major scale.They are also called major triads, 
 and they produce a sound that gives off a happy mood.
