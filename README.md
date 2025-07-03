@@ -9,7 +9,7 @@
 <header>
 <h1>Styling Soul</h1>
 <img src="logo.jpg" id="logo">
-<a link="#about">about</a>
+<a href="#about">about</a>
 </header>
 <main>
 <article>
