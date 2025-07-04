@@ -121,6 +121,62 @@
       display: inline-block;
       margin-top: 10px;
     }
+  @media (min-width: 768px) {
+  main {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  article {
+    flex: 3;
+  }
+
+  aside#ad {
+    flex: 1;
+    margin: 0;
+    align-self: flex-start;
+  }
+
+  .photos {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  header {
+    padding: 30px 40px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  article h2 {
+    font-size: 2.2em;
+  }
+
+  article h3 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 1.1em;
+  }
+
+  #ad {
+    width: 100%;
+    padding: 30px;
+    font-size: 1em;
+  }
+
+  #logo {
+    height: 60px;
+  }
   </style>
 </head>
 <body>
